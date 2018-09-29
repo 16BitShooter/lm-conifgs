@@ -8,21 +8,21 @@ If not, all you have to do is drag and drop into your FiveM Application Data.
 
 ###### Menu Navigation
 
-**UP** - **UP Arrow**
-**Down** - **Down Arrow**
-**Left** - **Left Arrow**
-**Right** - **Right Arrow**
+UP - UP Arrow
+Down - Down Arrow
+Left - Left Arrow
+Right - Right Arrow
 
 ###### NoClip Controls
 
-**Toggle NoClip** - **F2**
-**NoClip Up** - **Q**
-**NoClip Down** - **Z**
-**Noclip Forward** - **W**
-**NoClip Back** - **S**
-**NoClip Rotate Left** - **A**
-**NoClip Rotate Right** - **D**
-**NoClip Speed** - **SHIFT**
+Toggle NoClip - F2
+NoClip Up - Q
+NoClip Down - Z
+Noclip Forward - W
+NoClip Back - S
+NoClip Rotate Left - A
+NoClip Rotate Right - D
+NoClip Speed - SHIFT
 
 ###### Player Controls
 
