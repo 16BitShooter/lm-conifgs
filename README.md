@@ -6,14 +6,17 @@ If not, all you have to do is drag and drop into your FiveM Application Data.
 
 **Open Menu** - **F1**
 
-###### Menu Navigation
+## Menu Navigation
 
-UP - UP Arrow
+Up - Up Arrow
+
 Down - Down Arrow
+
 Left - Left Arrow
+
 Right - Right Arrow
 
-###### NoClip Controls
+## NoClip Controls
 
 Toggle NoClip - F2
 NoClip Up - Q
@@ -24,11 +27,11 @@ NoClip Rotate Left - A
 NoClip Rotate Right - D
 NoClip Speed - SHIFT
 
-###### Player Controls
+## Player Controls
 
 **Ragdol** - **DELETE KEY**
 
-###### Vehicle Controls
+## Vehicle Controls
 
 **Left Signal** - **Subtract Key**
 **Right Signal** - **Addition Key**
