@@ -19,12 +19,19 @@ Right - Right Arrow
 ## NoClip Controls
 
 Toggle NoClip - F2
+
 NoClip Up - Q
+
 NoClip Down - Z
+
 Noclip Forward - W
+
 NoClip Back - S
+
 NoClip Rotate Left - A
+
 NoClip Rotate Right - D
+
 NoClip Speed - SHIFT
 
 ## Player Controls
@@ -34,10 +41,15 @@ NoClip Speed - SHIFT
 ## Vehicle Controls
 
 **Left Signal** - **Subtract Key**
+
 **Right Signal** - **Addition Key**
+
 **Interior Light** - **END Key**
+
 **Windows Up** - **Page Up Key**
+
 **Windows Down** - **Page Down Key**
+
 **Drift Mode** - **SHIFT**
 
 # Numpad Config
@@ -47,19 +59,29 @@ NoClip Speed - SHIFT
 ###### Menu Navigation
 
 **UP** - **Numpad 8**
+
 **Down** - **Numbad 2**
+
 **Left** - **Numpad 4**
+
 **Right** - **Numpad 6**
 
 ###### NoClip Controls
 
 **Toggle NoClip** - **F2**
+
 **NoClip Up** - **Q**
+
 **NoClip Down** - **Z**
+
 **Noclip Forward** - **W**
+
 **NoClip Back** - **S**
+
 **NoClip Rotate Left** - **A**
+
 **NoClip Rotate Right** - **D**
+
 **NoClip Speed** - **SHIFT**
 
 ###### Player Controls
@@ -69,10 +91,15 @@ NoClip Speed - SHIFT
 ###### Vehicle Controls
 
 **Left Signal** - **Subtract Key**
+
 **Right Signal** - **Addition Key**
+
 **Interior Light** - **END Key**
+
 **Windows Up** - **Page Up Key**
+
 **Windows Down** - **Page Down Key**
+
 **Drift Mode** - **SHIFT**
 
 
